@@ -1,4 +1,4 @@
-# **Nairobi Office Price Prediction**
+# **Line of best fit**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue) ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-yellowgreen)
 
@@ -46,3 +46,4 @@ Given a dataset containing office sizes and prices, we normalize the data and us
  ┣ 📜model.py
  ┗ 📜plot.py
 
+# **I'm also as surprised and dumbfounded as you are... done this for school so yeah **
