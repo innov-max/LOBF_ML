@@ -46,4 +46,6 @@ Given a dataset containing office sizes and prices, we normalize the data and us
  ┣ 📜model.py
  ┗ 📜plot.py
 
-# **I'm also as surprised and dumbfounded as you are... done this for school so yeah **
+
+
+# **I'm also as surprised and dumbfounded as you are... done this for school so yeah** 
